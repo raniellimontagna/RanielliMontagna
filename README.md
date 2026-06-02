@@ -1,45 +1,73 @@
-![banner](https://drive.google.com/uc?export=view&id=1UwjjwBLGkuNdUW40z5m1g0-6NvtqNerc)
-<h1 align ="center">Hi, I'm Ranielli Montagna 👋</h1>
-<p align='center'>
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;React%20|%20Typescript%20|%20NodeJS%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+![Ranielli Montagna - Full Stack Software Engineer](assets/github-profile-banner.png)
 
-<p align="center">
- I'm currently working with React, seeking to advance my tech career as a Software Developer and bringing my troubleshooting skills to create solutions.
-</p>
+# Ranielli Montagna
 
- </br>
+## Full Stack Software Engineer
 
-<h2 align="center">Contact me</h2>
-<p align="center">
-  <a href="mailto:contato@ranimontagna.com">
-     <img  src="https://img.shields.io/badge/email-04001E?style=for-the-badge&logo=gmail&logoColor=1087E0" alt="email">
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/rannimontagna">
-     <img  src="https://img.shields.io/badge/linkedin-04001E?style=for-the-badge&logo=linkedin&logoColor=1087E0" alt="email">
-  </a>&nbsp;
-  <a href="https://twitter.com/Ranii_Montagna">
-     <img  src="https://img.shields.io/badge/twitter-04001E?style=for-the-badge&logo=twitter&logoColor=1087E0" alt="twitter">
-  </a>&nbsp;
-  <a href="https://ranimontagna.com">
-     <img  src="https://img.shields.io/badge/website-04001E?style=for-the-badge&logo=about.me&logoColor=1087E0" alt="website">
-  </a>
-</p>
-  
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;Web%2C+mobile%2C+APIs+and+micro+frontends;AI%2C+automation+and+developer+tooling)](https://git.io/typing-svg)
 
-<div align="center">
-<h2>Github Stats</h2>
-    <a href="https://github.com/RanielliMontagna/github-readme-stats"><img alt="RanielliMontagna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RanielliMontagna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/RanielliMontagna/github-readme-stats"><img alt="RanielliMontagna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanielliMontagna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</div>
-  
+I build web and mobile products, REST APIs, micro frontends and product interfaces where architecture, performance, accessibility and user experience need to work together.
 
-  ## ❤ Followers
-<a href="https://github.com/RanielliMontagna?tab=followers"><img src="https://img.shields.io/github/followers/RanielliMontagna?label=Followers&style=social" alt="GitHub Badge"></a>
+[![Website](https://img.shields.io/badge/website-ranimontagna.com-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://ranimontagna.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-rannimontagna-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/rannimontagna)
+[![Email](https://img.shields.io/badge/email-contato%40ranimontagna.com-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:contato@ranimontagna.com)
+[![Resume](https://img.shields.io/badge/resume-download-0D1117?style=for-the-badge&logo=readme&logoColor=38BDF8)](https://ranimontagna.com/cv/en.pdf)
 
-----
-Created with ❤️ by [RanielliMontagna](https://github.com/RanielliMontagna)<br />
-Last Edited on: 09/07/2022
+---
+
+## About
+
+I'm a full stack software engineer with 5+ years of experience building scalable web and mobile applications with React, React Native, TypeScript, Node.js and Next.js.
+
+At Luizalabs, I worked on solutions for Magalu physical store operations, contributing to inventory and logistics workflows across 1,000+ stores and the daily routine of 1,000+ stock clerks. I also led frontend initiatives in SaaS products, created a Design System adopted across multiple products, implemented quality standards and mentored developers.
+
+Lately, my focus has expanded into AI applied to software development: LLM integrations, automation, agents and Model Context Protocol workflows that improve product delivery and developer productivity.
+
+## What I Build
+
+| Area | Focus |
+| --- | --- |
+| Web applications | Product interfaces, dashboards, landing pages, e-commerce and SaaS platforms |
+| Backend and APIs | REST APIs, integrations, authentication, data modeling and scalable services |
+| AI integration | LLM features, chat assistants, workflow automation and custom agents |
+| Mobile products | React Native apps, API integrations, offline flows and operational tooling |
+
+## Stack
+
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=38BDF8)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=38BDF8)
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=22C55E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=38BDF8)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=38BDF8)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F472B6)
+![AI](https://img.shields.io/badge/AI_%26_Automation-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+
+## Experience
+
+| Company | Role | Scope |
+| --- | --- | --- |
+| Luizalabs | Mid-level Developer | Web and mobile products, REST APIs, integrations and micro frontends for national retail operations |
+| Smarten | Front-end Tech Lead | Frontend architecture, Design System, CI/CD, monitoring, mentoring and product delivery |
+| SBSistemas | Front-end Developer | React, Electron, TypeScript, reusable components and interface engineering practices |
+
+## GitHub Snapshot
+
+[![Ranielli Montagna GitHub profile stats](https://ghstats.dev/api/card?username=RanielliMontagna&theme=midnight&hide_border=true)](https://github.com/RanielliMontagna)
+
+> Public GitHub metrics are useful context, but they do not represent the full scope of production work, private repositories or business impact.
+
+## Contact
+
+I'm available for freelance projects, product engineering work and technical conversations around web, mobile, APIs and AI-assisted development.
+
+- Website: [ranimontagna.com](https://ranimontagna.com)
+- LinkedIn: [linkedin.com/in/rannimontagna](https://linkedin.com/in/rannimontagna)
+- Email: [contato@ranimontagna.com](mailto:contato@ranimontagna.com)
+- GitHub: [github.com/RanielliMontagna](https://github.com/RanielliMontagna)
+
+Built with the same care I try to bring to product interfaces: clear structure, useful details and no broken noise.
