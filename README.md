@@ -23,6 +23,8 @@ At Luizalabs, I worked on solutions for Magalu physical store operations, contri
 
 Lately, my focus has expanded into AI applied to software development: LLM integrations, automation, agents and Model Context Protocol workflows that improve product delivery and developer productivity.
 
+![Animated terminal card](assets/terminal-card.svg)
+
 ## What I Build
 
 | Area | Focus |
@@ -55,9 +57,9 @@ Lately, my focus has expanded into AI applied to software development: LLM integ
 | Smarten | Front-end Tech Lead | Frontend architecture, Design System, CI/CD, monitoring, mentoring and product delivery |
 | SBSistemas | Front-end Developer | React, Electron, TypeScript, reusable components and interface engineering practices |
 
-## GitHub Snapshot
+## GitHub Activity
 
-[![Ranielli Montagna GitHub profile stats](https://ghstats.dev/api/card?username=RanielliMontagna&theme=midnight&hide_border=true)](https://github.com/RanielliMontagna)
+![Recent GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RanielliMontagna&theme=github-compact&hide_border=true&area=true&custom_title=Recent%20Activity)
 
 > Public GitHub metrics are useful context, but they do not represent the full scope of production work, private repositories or business impact.
 

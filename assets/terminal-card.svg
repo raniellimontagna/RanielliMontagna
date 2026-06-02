@@ -1,0 +1,56 @@
+<svg width="1000" height="360" viewBox="0 0 1000 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ranielli Montagna terminal profile card</title>
+  <desc id="desc">Animated terminal card showing Ranielli Montagna's role, stack and product engineering focus.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1000" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#082F49"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(830 64) rotate(139.642) scale(430 285)">
+      <stop stop-color="#38BDF8" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-30" y="-30" width="1060" height="420" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#020617" flood-opacity="0.32"/>
+    </filter>
+  </defs>
+
+  <rect x="20" y="20" width="960" height="320" rx="22" fill="url(#panel)" filter="url(#shadow)"/>
+  <rect x="20.5" y="20.5" width="959" height="319" rx="21.5" stroke="#334155"/>
+  <rect x="20" y="20" width="960" height="320" rx="22" fill="url(#glow)"/>
+
+  <circle cx="58" cy="58" r="7" fill="#F87171"/>
+  <circle cx="82" cy="58" r="7" fill="#FBBF24"/>
+  <circle cx="106" cy="58" r="7" fill="#34D399"/>
+  <path d="M40 88H960" stroke="#334155"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="25">
+    <text x="62" y="132" fill="#38BDF8">$ whoami</text>
+    <text x="62" y="170" fill="#E2E8F0">Ranielli Montagna</text>
+
+    <g opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1;1" keyTimes="0;0.18;0.26;1" dur="7s" repeatCount="indefinite"/>
+      <text x="62" y="218" fill="#38BDF8">$ stack</text>
+      <text x="62" y="256" fill="#CBD5E1">React, React Native, Node.js, TypeScript</text>
+    </g>
+
+    <g opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1;1" keyTimes="0;0.42;0.5;1" dur="7s" repeatCount="indefinite"/>
+      <text x="62" y="304" fill="#38BDF8">$ focus</text>
+      <text x="185" y="304" fill="#E2E8F0">AI-powered product engineering</text>
+    </g>
+
+    <rect x="651" y="285" width="14" height="28" rx="2" fill="#38BDF8">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g opacity="0.8">
+    <path d="M756 118L801 144L756 170" stroke="#38BDF8" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M721 170L772 112" stroke="#94A3B8" stroke-width="10" stroke-linecap="round"/>
+    <path d="M838 112H908" stroke="#E2E8F0" stroke-width="10" stroke-linecap="round"/>
+    <path d="M838 146H908" stroke="#38BDF8" stroke-width="10" stroke-linecap="round"/>
+    <path d="M838 180H880" stroke="#94A3B8" stroke-width="10" stroke-linecap="round"/>
+  </g>
+</svg>
