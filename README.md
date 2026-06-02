@@ -53,7 +53,7 @@ Lately, my focus has expanded into AI applied to software development: LLM integ
 
 | Company | Role | Scope |
 | --- | --- | --- |
-| Luizalabs | Mid-level Developer | Web and mobile products, REST APIs, integrations and micro frontends for national retail operations |
+| Luizalabs | Software Engineer | Web and mobile products, REST APIs, integrations and micro frontends for national retail operations |
 | Smarten | Front-end Tech Lead | Frontend architecture, Design System, CI/CD, monitoring, mentoring and product delivery |
 | SBSistemas | Front-end Developer | React, Electron, TypeScript, reusable components and interface engineering practices |
 

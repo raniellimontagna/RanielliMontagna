@@ -46,11 +46,14 @@
     </rect>
   </g>
 
-  <g opacity="0.8">
-    <path d="M756 118L801 144L756 170" stroke="#38BDF8" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M721 170L772 112" stroke="#94A3B8" stroke-width="10" stroke-linecap="round"/>
-    <path d="M838 112H908" stroke="#E2E8F0" stroke-width="10" stroke-linecap="round"/>
-    <path d="M838 146H908" stroke="#38BDF8" stroke-width="10" stroke-linecap="round"/>
-    <path d="M838 180H880" stroke="#94A3B8" stroke-width="10" stroke-linecap="round"/>
+  <g opacity="0.86" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M726 142L760 112" stroke="#38BDF8" stroke-width="9"/>
+    <path d="M726 142L760 172" stroke="#38BDF8" stroke-width="9"/>
+    <path d="M807 106L775 178" stroke="#94A3B8" stroke-width="9"/>
+    <path d="M843 112L877 142" stroke="#38BDF8" stroke-width="9"/>
+    <path d="M843 172L877 142" stroke="#38BDF8" stroke-width="9"/>
+    <path d="M838 212H910" stroke="#E2E8F0" stroke-width="10"/>
+    <path d="M838 244H910" stroke="#38BDF8" stroke-width="10"/>
+    <path d="M838 276H878" stroke="#94A3B8" stroke-width="10"/>
   </g>
 </svg>
