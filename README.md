@@ -1,79 +1,56 @@
 ![Ranielli Montagna — Software Engineering, AI and Business Impact](assets/github-profile-banner.png)
 
-# Ranielli Montagna
+# Product engineering for real operations
 
-## Software Engineering · AI · Business Impact
+> Ranielli Montagna — Software Engineer at Lemon Energia
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=820&lines=React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;Web%2C+mobile%2C+APIs+and+micro+frontends;AI%2C+automation+and+developer+tooling)](https://git.io/typing-svg)
+I turn business and operational context into reliable web and mobile products, APIs, automation and AI-enabled workflows.
 
-I build web and mobile products, REST APIs, automation and product systems where architecture, performance, accessibility and business context need to work together. Today, I work at Lemon Energia, connecting software engineering with operational problems, automation and practical AI.
-
-[![Website](https://img.shields.io/badge/website-ranimontagna.com-0D1117?style=for-the-badge&logo=vercel&logoColor=22C55E)](https://ranimontagna.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-ranimontagna.com-0D1117?style=for-the-badge&logo=vercel&logoColor=22C55E)](https://ranimontagna.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-rannimontagna-0D1117?style=for-the-badge&logo=linkedin&logoColor=22C55E)](https://linkedin.com/in/rannimontagna)
-[![Email](https://img.shields.io/badge/email-contato%40ranimontagna.com-0D1117?style=for-the-badge&logo=gmail&logoColor=22C55E)](mailto:contato@ranimontagna.com)
-[![Resume](https://img.shields.io/badge/resume-download-0D1117?style=for-the-badge&logo=readme&logoColor=22C55E)](https://ranimontagna.com/cv/en.pdf)
+[![Email](https://img.shields.io/badge/email-get_in_touch-0D1117?style=for-the-badge&logo=gmail&logoColor=22C55E)](mailto:contato@ranimontagna.com)
+[![Resume](https://img.shields.io/badge/resume-CV-0D1117?style=for-the-badge&logo=readme&logoColor=22C55E)](https://ranimontagna.com/cv/en.pdf)
 
 ---
 
-## About
+## How I work
 
-I'm a full stack software engineer at Lemon Energia, with 5+ years of experience building scalable web and mobile applications with React, React Native, TypeScript, Node.js and Next.js.
+**Now — Lemon Energia.** I work at the intersection of the Center of Excellence and business areas, translating operational needs into clearer processes, digital solutions and reliable automation. I use AI pragmatically when it reduces repetitive work, organizes context or supports better decisions.
 
-At Lemon Energia, I work at the bridge between the Center of Excellence and business areas, helping turn operational needs into clearer processes, digital solutions and reliable automation. My focus is to understand the problem before proposing the technology, using AI pragmatically when it can reduce repetitive work, organize context or support better decisions.
+**Proven foundation — Luizalabs.** I contributed to inventory and logistics workflows across 1,000+ Magalu stores and the daily work of 1,000+ stock clerks. I also led frontend initiatives in SaaS products, created a Design System adopted across products, established quality practices and mentored developers.
 
-At Luizalabs, I worked on solutions for Magalu physical store operations, contributing to inventory and logistics workflows across 1,000+ stores and the daily routine of 1,000+ stock clerks. I also led frontend initiatives in SaaS products, created a Design System adopted across multiple products, implemented quality standards and mentored developers.
-
-My focus now goes beyond shipping features in isolation: I connect business context, software engineering, LLMs, automation, agents and Model Context Protocol workflows to make decisions clearer, operations more efficient and product delivery stronger.
+**How I approach problems.** With 5+ years in software engineering, I connect business context, product delivery, LLMs, automation, agents and Model Context Protocol workflows to make operations more efficient and decisions clearer.
 
 ![Business, software engineering and AI operating model](assets/terminal-card.svg)
 
-## What I Build
+## Operating focus
 
-| Area | Focus |
-| --- | --- |
-| Web applications | Product interfaces, dashboards, landing pages, e-commerce and SaaS platforms |
-| Backend and APIs | REST APIs, integrations, authentication, data modeling and scalable services |
-| AI & operational leverage | LLM-enabled workflows, agents, automation, decision support and custom tools |
-| Business enablement | Discovery, requirements, process clarity and technology decisions tied to operations |
-| Mobile products | React Native apps, API integrations, offline flows and operational tooling |
+- **Business systems** — discovery, process clarity and technology decisions tied to how teams actually operate.
+- **AI & automation** — LLM-enabled workflows, agents, custom tools and decision support with useful guardrails.
+- **Product engineering** — accessible web and mobile products, REST APIs, integrations and dependable delivery.
 
-## Stack
+## Craft & stack
 
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=22C55E)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=22C55E)
-![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=22C55E)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=22C55E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=22C55E)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=22C55E)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=22C55E)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F472B6)
-![AI](https://img.shields.io/badge/AI_%26_Automation-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+**Product engineering:** React, React Native, TypeScript, Next.js and Tailwind CSS.
+
+**Systems & delivery:** Node.js, REST APIs, PostgreSQL, Docker, CI/CD and product-quality practices.
+
+**AI & automation:** LLM workflows, agents, Model Context Protocol and developer tooling.
 
 ## Experience
 
-| Company | Role | Scope |
-| --- | --- | --- |
-| Lemon Energia | Software Engineer | Engineering at the bridge between the Center of Excellence and business areas, digital solutions, automation and applied AI |
-| Luizalabs | Software Engineer | Web and mobile products, REST APIs, integrations and micro frontends for national retail operations |
-| Smarten | Front-end Tech Lead | Frontend architecture, Design System, CI/CD, monitoring, mentoring and product delivery |
-| SBSistemas | Front-end Developer | React, Electron, TypeScript, reusable components and interface engineering practices |
+**Lemon Energia — Software Engineer**
 
-## GitHub Activity
+Engineering at the bridge between the Center of Excellence and business areas: digital solutions, automation and applied AI.
 
-![Recent GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RanielliMontagna&theme=github-compact&hide_border=true&area=true&custom_title=Recent%20Activity)
+**Luizalabs — Software Engineer**
 
-> Public GitHub metrics are useful context, but they do not represent the full scope of production work, private repositories or business impact.
+Web and mobile products, REST APIs, integrations and micro frontends for national retail operations.
 
-## Contact
+**Smarten — Front-end Tech Lead**
 
-I'm available for freelance projects, product engineering work and technical conversations around web, mobile, APIs and AI-assisted development.
+Frontend architecture, Design System, CI/CD, monitoring, mentoring and product delivery.
 
-- Website: [ranimontagna.com](https://ranimontagna.com)
-- LinkedIn: [linkedin.com/in/rannimontagna](https://linkedin.com/in/rannimontagna)
-- Email: [contato@ranimontagna.com](mailto:contato@ranimontagna.com)
-- GitHub: [github.com/RanielliMontagna](https://github.com/RanielliMontagna)
+**SBSistemas — Front-end Developer**
 
-Built with the same care I try to bring to product interfaces: clear structure, useful details and no broken noise.
+React, Electron, TypeScript, reusable components and interface engineering practices.
