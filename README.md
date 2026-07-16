@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;Web%2C+mobile%2C+APIs+and+micro+frontends;AI%2C+automation+and+developer+tooling)](https://git.io/typing-svg)
 
-I build web and mobile products, REST APIs, micro frontends and product interfaces where architecture, performance, accessibility and user experience need to work together.
+I build web and mobile products, REST APIs, micro frontends and product interfaces where architecture, performance, accessibility and user experience need to work together. Today, I work at Lemon Energia, connecting software engineering with business problems, automation and practical AI.
 
 [![Website](https://img.shields.io/badge/website-ranimontagna.com-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://ranimontagna.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-rannimontagna-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/rannimontagna)
@@ -17,7 +17,9 @@ I build web and mobile products, REST APIs, micro frontends and product interfac
 
 ## About
 
-I'm a full stack software engineer with 5+ years of experience building scalable web and mobile applications with React, React Native, TypeScript, Node.js and Next.js.
+I'm a full stack software engineer at Lemon Energia, with 5+ years of experience building scalable web and mobile applications with React, React Native, TypeScript, Node.js and Next.js.
+
+At Lemon Energia, I work at the bridge between the Center of Excellence and business areas, helping turn operational needs into clearer processes, digital solutions and reliable automation. My focus is to understand the problem before proposing the technology, using AI pragmatically when it can reduce repetitive work, organize context or support better decisions.
 
 At Luizalabs, I worked on solutions for Magalu physical store operations, contributing to inventory and logistics workflows across 1,000+ stores and the daily routine of 1,000+ stock clerks. I also led frontend initiatives in SaaS products, created a Design System adopted across multiple products, implemented quality standards and mentored developers.
 
@@ -53,6 +55,7 @@ Lately, my focus has expanded into AI applied to software development: LLM integ
 
 | Company | Role | Scope |
 | --- | --- | --- |
+| Lemon Energia | Software Engineer | Engineering at the bridge between the Center of Excellence and business areas, digital solutions, automation and applied AI |
 | Luizalabs | Software Engineer | Web and mobile products, REST APIs, integrations and micro frontends for national retail operations |
 | Smarten | Front-end Tech Lead | Frontend architecture, Design System, CI/CD, monitoring, mentoring and product delivery |
 | SBSistemas | Front-end Developer | React, Electron, TypeScript, reusable components and interface engineering practices |
