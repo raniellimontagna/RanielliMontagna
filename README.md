@@ -1,12 +1,12 @@
-![Ranielli Montagna - Full Stack Software Engineer](assets/github-profile-banner.png)
+![Ranielli Montagna — Software Engineering, AI and Business Impact](assets/github-profile-banner.png)
 
 # Ranielli Montagna
 
-## Full Stack Software Engineer
+## Software Engineering · AI · Business Impact
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=820&lines=React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;Web%2C+mobile%2C+APIs+and+micro+frontends;AI%2C+automation+and+developer+tooling)](https://git.io/typing-svg)
 
-I build web and mobile products, REST APIs, micro frontends and product interfaces where architecture, performance, accessibility and user experience need to work together. Today, I work at Lemon Energia, connecting software engineering with business problems, automation and practical AI.
+I build web and mobile products, REST APIs, automation and product systems where architecture, performance, accessibility and business context need to work together. Today, I work at Lemon Energia, connecting software engineering with operational problems, automation and practical AI.
 
 [![Website](https://img.shields.io/badge/website-ranimontagna.com-0D1117?style=for-the-badge&logo=vercel&logoColor=22C55E)](https://ranimontagna.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-rannimontagna-0D1117?style=for-the-badge&logo=linkedin&logoColor=22C55E)](https://linkedin.com/in/rannimontagna)
@@ -23,9 +23,9 @@ At Lemon Energia, I work at the bridge between the Center of Excellence and busi
 
 At Luizalabs, I worked on solutions for Magalu physical store operations, contributing to inventory and logistics workflows across 1,000+ stores and the daily routine of 1,000+ stock clerks. I also led frontend initiatives in SaaS products, created a Design System adopted across multiple products, implemented quality standards and mentored developers.
 
-Lately, my focus has expanded into AI applied to software development: LLM integrations, automation, agents and Model Context Protocol workflows that improve product delivery and developer productivity.
+My focus now goes beyond shipping features in isolation: I connect business context, software engineering, LLMs, automation, agents and Model Context Protocol workflows to make decisions clearer, operations more efficient and product delivery stronger.
 
-![Animated terminal card](assets/terminal-card.svg)
+![Business, software engineering and AI operating model](assets/terminal-card.svg)
 
 ## What I Build
 
@@ -33,7 +33,8 @@ Lately, my focus has expanded into AI applied to software development: LLM integ
 | --- | --- |
 | Web applications | Product interfaces, dashboards, landing pages, e-commerce and SaaS platforms |
 | Backend and APIs | REST APIs, integrations, authentication, data modeling and scalable services |
-| AI integration | LLM features, chat assistants, workflow automation and custom agents |
+| AI & operational leverage | LLM-enabled workflows, agents, automation, decision support and custom tools |
+| Business enablement | Discovery, requirements, process clarity and technology decisions tied to operations |
 | Mobile products | React Native apps, API integrations, offline flows and operational tooling |
 
 ## Stack
