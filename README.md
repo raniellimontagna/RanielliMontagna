@@ -54,3 +54,14 @@ Frontend architecture, Design System, CI/CD, monitoring, mentoring and product d
 **SBSistemas — Front-end Developer**
 
 React, Electron, TypeScript, reusable components and interface engineering practices.
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raniellimontagna&amp;theme=github_dark&amp;title_color=22C55E&amp;text_color=E5E7EB&amp;bg_color=0D1117&amp;border_color=30363D&amp;icon_color=22C55E&amp;chart_color=22C55E&amp;hide_logo=true" height="165" alt="Public GitHub statistics for Ranielli Montagna" />
+  <img src="https://streak-stats.demolab.com?user=raniellimontagna&amp;hide_border=true&amp;background=0D1117&amp;ring=22C55E&amp;fire=22C55E&amp;currStreakLabel=22C55E&amp;sideLabels=E5E7EB&amp;sideNums=E5E7EB&amp;currStreakNum=E5E7EB&amp;dates=94A3B8&amp;stroke=30363D" height="165" alt="GitHub contribution streak for Ranielli Montagna" />
+</p>
+
+![Public GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raniellimontagna&bg_color=0D1117&color=E5E7EB&line=22C55E&point=86EFAC&area=true&hide_border=true&custom_title=Public%20GitHub%20Activity)
+
+> These visuals track public GitHub activity. Private production work and business impact are not fully represented here.
