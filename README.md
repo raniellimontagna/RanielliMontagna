@@ -55,13 +55,21 @@ Frontend architecture, Design System, CI/CD, monitoring, mentoring and product d
 
 React, Electron, TypeScript, reusable components and interface engineering practices.
 
+## Featured projects
+
+- **[agent-toolkit](https://github.com/raniellimontagna/agent-toolkit)** — Node.js CLI that installs a pinned set of coding-agent tools and skills across Claude Code, Codex CLI, OpenCode, Gemini CLI and Antigravity.
+- **[full-page-shot](https://github.com/raniellimontagna/full-page-shot)** — Chrome extension that captures the whole scrollable page, the visible area or a dragged region to the clipboard or a file, fully local.
+- **[klick](https://github.com/raniellimontagna/klick)** — Minimalist Rubik's Cube timer and scrambler with sessions, statistics and offline support. Live at [klick.ranimontagna.com](https://klick.ranimontagna.com).
+- **[jev-guard-mcp](https://github.com/raniellimontagna/jev-guard-mcp)** — Experimental MCP server where Jev picks among code-owned browser actions, run in an isolated Playwright context after explicit human approval.
+- **[fadenbrett](https://github.com/raniellimontagna/fadenbrett)** — Self-hosted investigation board: connect characters, events and theories with red strings on an infinite canvas.
+- **[tab-switch](https://github.com/raniellimontagna/tab-switch)** — Browser extension that rotates through configured tabs automatically, for presentations and monitoring dashboards.
+- **[ranimontagna.com](https://github.com/raniellimontagna/ranimontagna.com)** and **[links.ranimontagna.com](https://github.com/raniellimontagna/links.ranimontagna.com)** — my portfolio and blog (Next.js) and my links page (Astro).
+
 ## GitHub activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raniellimontagna&amp;theme=github_dark&amp;title_color=22C55E&amp;text_color=E5E7EB&amp;bg_color=0D1117&amp;border_color=30363D&amp;icon_color=22C55E&amp;chart_color=22C55E&amp;hide_logo=true" height="165" alt="Public GitHub statistics for Ranielli Montagna" />
   <img src="https://streak-stats.demolab.com?user=raniellimontagna&amp;hide_border=true&amp;background=0D1117&amp;ring=22C55E&amp;fire=22C55E&amp;currStreakLabel=22C55E&amp;sideLabels=E5E7EB&amp;sideNums=E5E7EB&amp;currStreakNum=E5E7EB&amp;dates=94A3B8&amp;stroke=30363D" height="165" alt="GitHub contribution streak for Ranielli Montagna" />
 </p>
-
-![Public GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raniellimontagna&bg_color=0D1117&color=E5E7EB&line=22C55E&point=86EFAC&area=true&hide_border=true&custom_title=Public%20GitHub%20Activity)
 
 > These visuals track public GitHub activity. Private production work and business impact are not fully represented here.
